@@ -75,16 +75,3 @@ function getRandomCard () {
    }
 }
 
-let age =27
-
-if (age<6) {
-console.log("Free")
-}else if (age<=17) {
-    console.log("Child")
-} else if (age<=26) {
-    console.log("Student")
-}
-else {
-    console.log("Full price")
-}
-
