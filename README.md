@@ -9,7 +9,7 @@
 ## General info
 Using HTML, CSS and Javascript. This online blackjack game was created with a simplistic in mind. Making it easy to play. 
 
-The game will automatically load with two cards the sum is evaluated and displayed at the bottom of the screen. If the sum is equal to 21 then you will get a message saying congratulations, otherwise it will ask you to draw again. If you draw and the number is over 21 then another message will be displayed saying game over.
+Upon clicking start game, two cards are drawn then the sum is evaluated and displayed at the bottom of the screen. If the sum is equal to 21 then you will get a message saying congratulations, otherwise it will ask you to draw again. If you draw and the number is over 21 then another message will be displayed saying game over.
 
 	
 ## Technologies
